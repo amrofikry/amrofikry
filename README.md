@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **amr3336060@gmail.com**
 
-- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1RpyVWtPka0Ao8t7g_veq5Whi0MIIGkMh/edit">My Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/19e6syHCfPZgu-UTZY-pPt0evtantHufm/view?usp=sharing">My Resume</a>
 
 
 <h3 align="left">Connect with me:</h3>
