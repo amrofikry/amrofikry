@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amr Ahmed Fikry</h1>
 <h3 align="center">Full Stack Web Developer Using DotNet | Angular</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eslamhatem1&label=Profile%20views&color=0e75b6&style=flat" alt="Amr ahmed" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amrofikry&label=Profile%20views&color=0e75b6&style=flat" alt="Amr ahmed" /> </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=30&duration=4000&color=FF84A6&vCenter=true&width=650&height=100&lines=Welcome+On+My+GitHub+Profile%F0%9F%8C%B8..;Call+me+Eslam..;I'm+a+Software+Engineer..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=30&duration=4000&color=FF84A6&vCenter=true&width=650&height=100&lines=Welcome+On+My+GitHub+Profile%F0%9F%8C%B8..;Call+me+Amr..;I'm+a+Software+Engineer..)](https://git.io/typing-svg)
 
 
 
@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/amr-fikry1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amr-fikry1/" height="30" width="40" /></a>
 <a href="https://medium.com/@amr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@Amr" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/eslamhatem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eslamhatem" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/amrofikry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amrofikry" height="30" width="40" /></a>
 </p>
 
 
@@ -54,7 +54,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Eslam Github Stats" src="https://github-readme-stats.vercel.app/api?username=EslamHatem&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Amr Github Stats" src="https://github-readme-stats.vercel.app/api?username=amrofikry&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 
@@ -68,7 +68,7 @@
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/amrofikry"><img alt="amr fikry Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=manarshahin48&custom_title=Eslam%20Hatem%27s%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/amrofikry"><img alt="amr fikry Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amrofikry&custom_title=Amr%Ahmed%27s%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
