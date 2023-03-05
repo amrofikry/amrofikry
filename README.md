@@ -14,9 +14,9 @@
 
 - 💬 Ask me about **Angular, sql, Api**
 
-- 📫 How to reach me **amr3336060@gmail.com**
+- 📫 How to reach me **amr.a.fikry@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/19e6syHCfPZgu-UTZY-pPt0evtantHufm/view?usp=sharing">My Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/drive/u/0/folders/1ayCYKBI-2_xOrzg-ha3hkmO4DfBL8joX">My Resume</a>
 
 
 <h3 align="left">Connect with me:</h3>
